@@ -5,6 +5,8 @@
 
 ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Domingues&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Domingues&hide_progress=true)
+
 ## Trabalho com o que?
 
 <div style="display: inline_block"><br/>
