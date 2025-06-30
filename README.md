@@ -1,5 +1,7 @@
 ### Eaee!! Eu sou o Juan Domingues 
 
+<p>Sou um aspirante a desenvolvedor Front-End e Web Designer, pretendo mostrar um pouco do meu trabalho por cá, e também contribuir com a galera!</p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp.dmgs?igsh=MXRqMzBkejlmeXpycw%3D%3D&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-araujo-domingues-43b63722a/)
 
